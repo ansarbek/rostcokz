@@ -109,7 +109,7 @@
             "fontColor": "#74a3c7",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-5\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"tel:+ 7 701 4000 131\">+ 7 701 4000 131</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#form1-5\">Контакты</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary btn-lg btn\" href=\"tel:+ 7 701 4000 131\">+ 7 (771) 080 8888</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -190,7 +190,7 @@
             "bgColor": "#fff"
           },
           "title": "Адрес нашего офиса<br>Our Adress",
-          "meta": "Казахстан, Атырау, Кулманова 111<br>Kazakhstan, Atyrau, Qulmanov 111&nbsp;",
+          "meta": "Казахстан, Атырау, Кулманова 111<br>Kazakhstan, Atyrau, Qulmanov 111&nbsp;<br>+ 7 (7122) 763 159<br>",
           "_tags": [
             "Theme"
           ],
@@ -297,8 +297,8 @@
             "overlayColor": "#fff",
             "overlayOpacity": 0.9
           },
-          "text": "+ 7 701 4000 131",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"tel:+ 7 701 4000 131\" data-toolbar=\"-mbrBtnMove\">Позвонить нам</a>",
+          "text": "+ 7 (771) 080 8888",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary-outline\" href=\"tel:+ 7 (771) 080 8888\" data-toolbar=\"-mbrBtnMove\">Позвонить нам</a>",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/rostcokz\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a>      ",
           "_tags": [
             "Theme"
