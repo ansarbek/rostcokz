@@ -113,12 +113,11 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/rostco-logo-264x65.png",
+              "src": "@PROJECT_PATH@/assets/images/rostco-png-260x92.png",
               "height": 128,
               "alt": "Rostco",
               "link": "https://rostco.kz",
-              "title": "",
-              "linkInNewWindow": false
+              "title": ""
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
