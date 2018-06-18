@@ -138,7 +138,7 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": true,
+            "showButtons": false,
             "contentAlign": "center",
             "showArrow": true,
             "bgImageRadio": true,
